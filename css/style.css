@@ -1,0 +1,255 @@
+.nav-a {
+     color: #3D58A6;
+     font-size: 22px;
+}
+
+.active {
+	color: #EE4036 ;
+}
+
+.date {
+	width:56px;
+	height:56px;
+	background-color:#3D58A6;
+	margin-top: 36px;
+	margin-left: 64px;
+	margin-bottom: 2px;
+}
+
+.title {
+	margin-left: 64px;
+	vertical-align: middle;
+
+}
+
+.img1 {
+	display: inline-block;
+	vertical-align: middle;	
+	margin-right: 50px;
+}	
+
+
+.mtavari {
+	margin-bottom: 2px;
+	font-family: "ALKDots", sans-serif ;
+}
+
+.siaxleebi {
+	margin-bottom: 2px;
+	font-family: "ALKDots", sans-serif;
+
+}
+
+.baneri {
+    margin-left: 98px;
+    margin-bottom: 117px;
+}
+
+.kontakti {
+	margin-bottom: 21px;
+	font-family: "ALKDots", sans-serif;
+}
+
+.title-contact {
+	text-align: center;
+	font-family: "BPG Glaho Bold", sans-serif;
+
+}
+
+.ricxvebi {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+
+.surati-news {
+	margin-left: 64px;
+	margin-top: 17px;
+	margin-bottom: 31px;
+}
+
+.maisi {
+	margin-left: 64px;
+	margin-top: 2px;
+	margin-bottom: 13px;
+	color: #3D58A6;
+	font-family: "BPG Glaho Bold", sans-serif;
+
+}
+
+
+.meore-p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 64px;
+	font-family: "BPG Glaho Bold", sans-serif;
+
+}
+
+.mesame-p {
+	margin-left: 64px;
+	font-family: "BPG Glaho Bold", sans-serif;
+
+}
+
+.facebooki {
+	margin-left: 30px;
+	margin-bottom: 29px;
+	margin-top: 30px;
+}
+
+.xazi {
+	margin-left: 35px;
+	margin-top: 32px;
+	margin-bottom: 31px;
+}
+
+.youtube {
+	margin-bottom: 30px;
+}
+
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}	
+
+.header-wraper {
+	margin-top: 30px;
+	margin-left: 29px;
+	margin-bottom: 77px;
+}
+
+.featured {
+	font-size: 24px;
+	margin-left: 98px;
+	margin-bottom: 30px;
+	font-family: 'Chilanka', cursive;
+}
+
+.box-1 {
+	background-color: #F2F2F2;
+	width: 570px;
+	display: inline-block;
+	margin-left: 98px;
+	margin-bottom: 137px;
+}
+
+.responsive-web-design {
+	font-size: 22px;
+	color: #3D58A6;
+	padding-top: 11px;
+	padding-right: 275px;
+	padding-bottom: 12px;
+	font-family: 'Chilanka', cursive;
+}
+
+.APP-DEVELOPMENT {
+	font-size: 22px;
+	color: #3D58A6;
+	padding-top: 11px;
+	padding-right: 275px;
+	padding-bottom: 12px;	
+	font-family: 'Chilanka', cursive;
+}
+
+.box-1 img {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 38px;
+	padding-bottom: 41px;
+
+}
+
+.box-1 p {
+	display: inline-block;
+	vertical-align: middle;
+	width: 355px;
+	font-size: 20px;
+	padding-top: 17px;
+	padding-right: 15px;
+	padding-bottom: 24px;
+	padding-left: 60px;
+	font-family: 'Chilanka', cursive;
+}
+
+.box-2 {
+	background-color: #F2F2F2;
+	display: inline-block;
+	width: 570px;
+
+}
+
+.box-2 img {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 63px;
+	padding-bottom: 36px;
+}
+
+.box-2 p {
+	display: inline-block;
+	vertical-align: middle;
+	width: 355px;
+	font-size: 20px;
+	padding-top: 17px;
+	padding-right: 15px;
+	padding-bottom: 24px;
+	padding-left: 60px;
+	font-family: 'Chilanka', cursive;
+}
+
+.news-nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-news {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}	
+
+.img-news {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+}
+
+.pirveli-p {
+	display: inline-block;
+	vertical-align: middle;
+	width: 929px;
+	font-size: 16px;
+	padding-left: 39px;
+	padding-top: 21px
+	margin-right: 98px;
+
+}
+
+.title22 {
+	margin-bottom: 21px;
+	margin-left: 64px;
+	font-family: "BPG Glaho Bold", sans-serif;
+}
+.map {
+	width: 874px;
+	height: 466px;
+	margin-left: 402px;
+	margin-bottom: 90px;
+	margin-right: 90px;
+}
+
+.title-contact {
+	text-align: left;
+	margin-left: 97px;
+}
+.lorem {
+	font-family: "BPG Glaho Bold", sans-serif;
+
+}
